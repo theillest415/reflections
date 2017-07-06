@@ -1,7 +1,7 @@
 # reflections
 <!DOCTYPE html>
 <head>
-<title> In'Spire's Reflection Page </title>
+<h1 In'Spire's Reflection Page </h2>
 <body>
   <p> I would like to be at the finishing page of my tutorial.</p>
   <p> I could create social media sites or portfolios with the same structure as the portfolio page </p>
