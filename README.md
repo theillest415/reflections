@@ -8,3 +8,5 @@
   <P> I would like more practice in html and java script </p>
   <p> I dont really understand SYNTAX is kind of confusing </p>
   
+  <h2>July 10</h2>
+  <p> Computers are good at data because they are fast and powerful and process data efficiently.  My scientist can speak three languages. </p>
